@@ -1,0 +1,13 @@
+*.iml
+server.jar
+client.jar
+admin.jar
+super.jar
+*.MF
+
+out/
+logs/
+.DS_STORE
+data
+.idea/
+bin/
